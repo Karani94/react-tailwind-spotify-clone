@@ -1,1 +1,1 @@
-https://react-tailwind-spotify-demo.netlify.app/
+https://react-tailwind-spotify-clone-two.vercel.app
